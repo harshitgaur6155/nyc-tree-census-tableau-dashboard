@@ -1,7 +1,7 @@
 # New York City Tree Census 2015 - Tableau Dashboard
 This project is a part of the coursework of _Data Visualization and Communication_ at Northeastern University, Boston, MA, USA.
 
-Dashboard URL (publicly deployed)
+### Dashboard URL (publicly deployed) - 
 https://public.tableau.com/app/profile/harshitgaur/viz/NYCTreeCensus2015-DataAnalysisDashboard/NYCTreeCensus2015-Story
 
 #### -- Project Status: [Active, On-Hold, Completed]
